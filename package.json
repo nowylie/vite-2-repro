@@ -1,0 +1,16 @@
+{
+  "name": "vite-2-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vite": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.0.4"
+  },
+  "type": "module"
+}
